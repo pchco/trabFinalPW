@@ -1,4 +1,4 @@
-# trabFinalPW
+# Trabalho Final de Programação Web I
 Repositório destinado ao projeto final da disciplina de Programação Web I.
 
 -> Hotel Flash - Site de Reservas
